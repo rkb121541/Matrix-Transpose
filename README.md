@@ -1,3 +1,3 @@
 # MatrixTranspose
 
-Takes the transpose of any matrix (any size, any dimension).
+Takes the transpose of any size matrix.
